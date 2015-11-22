@@ -1,16 +1,16 @@
 {
-	"name": "sassquatch",
-	"version": "1.2.3",
-	"description": "Front end framework for Meetup",
+	"name": "sassquatch-lite",
+	"version": "0.0.1",
+	"description": "Lite version of the front end framework for Meetup",
 	"directories": {
 		"doc": "docs/build",
 		"dist": "dist"
 	},
 	"repository": {
 		"type": "git",
-		"url": "git://github.com/meetup/sassquatch2.git"
+		"url": "git@github.com:mperrotti/sassquatch2-lite.git"
 	},
-	"author": "adamd@meetup.com",
+	"author": "mperrotti573@gmail.com",
 	"license": {
 		"type": "MIT",
 		"url": "https://github.com/meetup/sassquatch2/blob/master/LICENSE"
@@ -20,8 +20,6 @@
 		"grunt": "~0.4.5",
 		"grunt-cli": "",
 		"grunt-contrib-sass": "0.8.1",
-		"grunt-hologram": "0.0.7",
-		"grunt-gh-pages": "0.9.1",
 		"grunt-contrib-clean": "0.6.0",
 		"grunt-wiredep": "2.0.0",
 		"grunt-preprocess": "4.1.0"
