@@ -31,22 +31,14 @@
 
 	// Type
 	@import "core/type/type-reset";
-	@import "core/type/headings";
-	@import "core/type/body-text";
-	@import "core/type/debug-text";
 
 	// Forms
 	@import "core/forms/base";
-	@import "core/forms/checkbox";
-	@import "core/forms/radio";
-	@import "core/forms/launcher";
-	@import "core/forms/validation";
 
 	// Tables
 	@import "core/tables/base";
 	@import "core/tables/resetTable";
 	@import "core/tables/borderedTable";
-	@import "core/tables/stripedTable";
 
 	// Layout
 	@import "core/layout/stripe";
@@ -61,32 +53,12 @@
 	@import "core/layout/column";
 	@import "core/layout/spreadable";
 
-	// Views
-	@import "core/view/view";
-	@import "core/view/view-head";
-	@import "core/view/view-body";
-	@import "core/view/modal";
-	@import "core/view/mediaView";
-
 
 // ---------------------------
 // UI Components
 // ---------------------------
-	@import "ui-components/avatar";
 	@import "ui-components/attachment";
-	/*@import "ui-components/buttons";*/
-	@import "ui-components/buttons_transitional";
-	@import "ui-components/card";
 	@import "ui-components/collapsible";
-	@import "ui-components/floatingAction";
-	@import "ui-components/menu";
-	@import "ui-components/pagination";
-	@import "ui-components/prompt";
-	@import "ui-components/rsvpTag";
-	@import "ui-components/tabs";
-	@import "ui-components/tearsheet";
-	@import "ui-components/thumbContent";
-	@import "ui-components/toggle-pill";
 
 
 // ---------------------------
@@ -97,7 +69,6 @@
 	@import "modifiers/aspect-ratio";
 	@import "modifiers/background";
 	@import "modifiers/border";
-	@import "modifiers/button";
 	@import "modifiers/display";
 	@import "modifiers/float";
 	@import "modifiers/flush";
